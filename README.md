@@ -3,9 +3,9 @@
 <body>
 In order to use GitHub inside of the README.md file, you first need to create a GitHub account where you will create a new repository.
 
-<strong>GitHub<strong> is an online platform where users will have the opportunity to store, share, and collaborate on code. If your document is lost or serious bugs are introduced, GitHub will allow you to to revert to the previous version. 
+<strong>GitHub</strong> is an online platform where users will have the opportunity to store, share, and collaborate on code. If your document is lost or serious bugs are introduced, GitHub will allow you to to revert to the previous version. 
 
-GitHub uses <strong>Git<strong> which is a version control system that allows you to track differences and changes made in files which are uploaded to or downloaded from GitHub for storage and collaboration. 
+GitHub uses <strong>Git</strong> which is a version control system that allows you to track differences and changes made in files which are uploaded to or downloaded from GitHub for storage and collaboration. 
 
 To create a GitHub account, visit the website https://github.com to sign up for GitHub using your email address and creating your own password! 
 
